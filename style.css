@@ -1,0 +1,20 @@
+section{
+    display:block;
+    text-align: center;
+    margin-top: 18%;
+    margin-left: 550px;
+    margin-right: 550px;
+    background-color: rgb(160, 180, 255);
+}
+h2 {
+    margin: 20px;
+    padding-top:10px;
+    text-align: center;
+} 
+form{
+    display: block;
+    text-align: center;
+    color: black;
+    background-color: rgb(255, 255, 255, 0.6);
+    padding: 50px;
+}
